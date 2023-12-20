@@ -1,6 +1,12 @@
+## Task 1 
+#Linux-custom-script
+Linux-custom-script - https://github.com/Aneeshh18/linux-custom-script
+
+
+## Task 2
 # Ecommerce Web App
 
-Welcome to the Ecommerce Web App repository created by Aneesh Sahu.
+Welcome to the E-commerce Web App repository created by Aneesh Sahu.
 
 Backend Repository - https://github.com/Aneeshh18/ecom_be
 
@@ -14,7 +20,7 @@ Backend Repository - https://github.com/Aneeshh18/ecom_be
 
 ### Additional Pages
 - *Home Page:* The landing page showcasing featured products or announcements.
-- *About Page:* Information about the ecommerce website or company.
+- *About Page:* Information about the e-commerce website or company.
 - *Products Page:* Display of various products available for purchase.
 
 ## Tech Stack
@@ -26,7 +32,7 @@ Backend Repository - https://github.com/Aneeshh18/ecom_be
 ### Clone the Repository
 bash
 git clone
-cd ecommerce-web-app
+cd e-commerce-web-app
 
 
 ### Install Dependencies
