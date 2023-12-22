@@ -5,7 +5,7 @@
     align-items: center;
 }
 
-.leftHeroImage>img {
+.leftHeroImage > img {
     width: 500px;
 }
 
@@ -24,10 +24,10 @@
 .redirect {
     margin-top: 10px;
     padding: 2px;
-    color: rgb(242, 73, 26);
+    color: #2E4053; 
 }
 
-@media (min-width:768px) {
+@media (min-width: 768px) {
     .loginPage {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
@@ -40,7 +40,7 @@
         align-items: center;
     }
 
-    .leftHeroImage>img {
+    .leftHeroImage > img {
         width: 720px;
     }
 
@@ -54,5 +54,9 @@
     .form {
         padding: 10px;
         width: 70%;
+    }
+
+    .redirect {
+        color: #F2421A; 
     }
 }

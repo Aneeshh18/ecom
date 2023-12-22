@@ -14,13 +14,13 @@ const Home = () => {
             >
                 <div className="carousel-inner">
                     <div className="carousel-item active">
-                        <img src="https://images-eu.ssl-images-amazon.com/images/G/31/img2020/img21/apparelGW/dec23atf/eoss/unrec/kotak/WA_ETH_3000._CB586338069_.jpg" className="d-block w-100" alt="..." />
+                    <img src="https://images-eu.ssl-images-amazon.com/images/G/31/OHL_HSS/3000x1200-heroUnrec._CB570990004_.jpg" className="d-block w-100" alt="..." />
                     </div>
                     <div className="carousel-item">
                         <img src="https://images-eu.ssl-images-amazon.com/images/G/31/img23/Softlines_JWL_SH_GW_Assets/Dec23/Shoes/EOSS/Unrec/Kotak/Sports/Frame_320_3000pc._CB586293054_.jpg" className="d-block w-100" alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="https://images-eu.ssl-images-amazon.com/images/G/31/OHL_HSS/3000x1200-heroUnrec._CB570990004_.jpg" className="d-block w-100" alt="..." />
+                        <img src="https://images-eu.ssl-images-amazon.com/images/G/31/img2020/img21/apparelGW/dec23atf/eoss/unrec/kotak/WA_ETH_3000._CB586338069_.jpg" className="d-block w-100" alt="..." />
                     </div>
                 </div>
                 <button
@@ -45,11 +45,11 @@ const Home = () => {
 
             <div className='bodyContainer'>
                 <div className='leftContainer'>
-                    <img src='https://media.istockphoto.com/id/1215280342/photo/close-up-shot-red-darts-arrows-in-the-target-center-on-dark-blue-sky-background-business.webp?s=2048x2048&w=is&k=20&c=N-BlpG89iT6keRKBHS1fx62CiCvSlKO8o_n6UkcO6TI=' alt='this is an image' />
+                    <img src="https://assets-global.website-files.com/61766c42e8e50c99a04fbd4b/6179a87367a4318b2a892cd0_SMART-goals-p-1080.jpeg" alt="IMG" />
                 </div>
                 <div className='rightContainer'>
                     <h2>Our Mission</h2>
-                    <p>Our mission is to empower individuals and businesses by providing a trusted and convenient online marketplace where they can discover, shop, and connect. We are committed to fostering a community-driven environment, promoting sustainability, and supporting local and global brands.</p>
+                    <p>Our goal is to enable people and companies by giving them access to a reliable and practical online marketplace where they can explore, purchase, and interact. We are dedicated to supporting regional and international companies, encouraging sustainability, and creating an atmosphere that is driven by the community.</p>
                 </div>
             </div>
             <Footer />
